@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Materi
 ## Aditya Rizqi Ardhana
 ### Next JS.
@@ -9,8 +8,8 @@ Belajar tentang Chakra UI agar bisa membuat component react dengan cepat dan sim
 ## Aditya Rizqi Ardhana
 ### CTO Startup ataupun perusahaan
 Menjadi seorang CTO ialah rencana karir yang ingin saya capai. Tentunya tidak mudah untuk dicapai, banyak harus dipelajari seperti basic pemrograman, mempunyai ilmu di bidang IT, mempunyai dasar kepemimpinan serta mempunyai keahlian dalam memanajemen dan memimpin sebuah proyek.
-=======
+
+##Andini
 my resolution
 lulus
 lanjut kuliah
->>>>>>> 271c9b4fe79a683816ebe66a24d76e23756e7919
